@@ -180,9 +180,9 @@ void train_booking()
     if(fc_type == 1)
     {
       fc_count++;
-      printf("\n Press any key to continue . . .");
-      getch();
     }
+    printf("\n Press any key to continue . . .");
+    getch();
   }
 
   Id:
